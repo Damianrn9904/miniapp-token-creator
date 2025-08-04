@@ -1,0 +1,22 @@
+{
+  "name": "miniapp-token-creator",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "forge test"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@worldcoin/minikit-js": "latest",
+    "@worldcoin/minikit-react": "latest",
+    "ethers": "latest"
+  },
+  "devDependencies": {
+    "forge": "latest",
+    "typescript": "latest"
+  }
+}
