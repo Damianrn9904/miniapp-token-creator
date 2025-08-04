@@ -1,0 +1,6 @@
+# foundry.toml
+profile = "default"
+src = "contracts"
+out = "out"
+rpc_url = "${WORLDCHAIN_RPC_URL}"  # p.ej. https://worldchain-sepolia.g.alchemy.com/public :contentReference[oaicite:7]{index=7}
+private_key = "${DEPLOYER_KEY}"
